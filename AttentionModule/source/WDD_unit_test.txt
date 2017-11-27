@@ -1,0 +1,26 @@
+************** Run started in test mode **************
+Printing InputVideoParameters:
+frame_width: 320
+frame_height: 240
+frame_rate: 187.0
+frame_format: 8UC1
+************** WDD_DDL_DEBUG_FULL ON!   **************
+init done
+opengl support available
+Printing WaggleDanceDetector frame parameter:
+frame_height: 120
+frame_width: 160
+frame_rate: 102
+frame_red_fac: 1
+Initialize with 19200 DotDetectors (DD_MIN_POTENTIAL=32888.0).
+Frame# 31        DD_SIGNALS_NUMBER: 4
+Frame# 32        DD_SIGNALS_NUMBER: 10
+Frame# 33        DD_SIGNALS_NUMBER: 7
+Frame# 34        DD_SIGNALS_NUMBER: 9
+Frame# 35        DD_SIGNALS_NUMBER: 5
+Frame# 36        DD_SIGNALS_NUMBER: 6
+Frame# 37        DD_SIGNALS_NUMBER: 6
+Frame# 38        DD_SIGNALS_NUMBER: 2
+Frame# 39        DD_SIGNALS_NUMBER: 2
+************** WDD_DDL_DEBUG_FULL DONE! **************
+WDD_DDL_DEBUG_FULL captured 40 frames.
